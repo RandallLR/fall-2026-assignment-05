@@ -1,1 +1,122 @@
-[]
+[
+    {
+        "id" : 1,
+        "name": "Flat Screen TV",
+        "price": 119.99,
+        "category": "Electronics",
+        "description": "40 inch flatscreen TV that has Roku built into it and popular streaming services such as Netflix, Disney+, and Amazon Prime Video.",
+        "imageUrl": "/images/Product1.avif"
+    },
+        {
+        "id" : 2,
+        "name": "Nintendo Switch",
+        "price": 349.00,
+        "category": "Electronics",
+        "description": "Nintendo's first Hybrid console, first released in March of 2017.",
+        "imageUrl": "/images/Product2.png"
+    },
+        {
+        "id" : 3,
+        "name": "Round Lab Birch Juice Moisturizing UV Lock Korean Sunscreen, No White cast, SPF 45 - 50 ML",
+        "price": 24.99,
+        "category": "Skincare",
+        "description": "A mousturizing sunscreen that not only protects your skin from harmful UVs, but replenishes and hydrates your skin with a vita-aqua barrier!",
+        "imageUrl": "/images/Product3.avif"
+    },
+        {
+        "id" : 4,
+        "name": "Chiikawa Usagi Plush ~8in",
+        "price": 19.99,
+        "category": "Toys",
+        "description": "A cute and fluffy adorable ~8in plush of the character Usagi from the hit series based in Japan, Chiikawa.",
+        "imageUrl": "/images/Product4.png"
+    },
+        {
+        "id" : 5,
+        "name": "Large Yankee Candle - Pink Sands",
+        "price": 24.99,
+        "category": "Home Essentials",
+        "description": "A pleasant aroma that will freshen up any room and remind you of the beautiful summer days. Currently $10 off for the next 2 weeks! Until supplies last.",
+        "imageUrl": "/images/Product5.png"
+    },
+        {
+        "id" : 6,
+        "name": "ChapStick - Green Apple Flavor",
+        "price": 2.99,
+        "category": "Health",
+        "description": "Green Apple flavored ChapStick",
+        "imageUrl": "/images/Product6.png"
+    },
+        {
+        "id" : 7,
+        "name": "Les Macarons d'Olivier",
+        "price": 15.99,
+        "category": "Food",
+        "description": "8 macaroons with 2 flavors of each which chocolate, strawberry, vanilla, and salted butter caramel. A good blend of sweet and salty, very delicious!",
+        "imageUrl": "/images/Product7.png"
+    },
+        {
+        "id" : 8,
+        "name": "Bleu De Chanel Men's Cologne",
+        "price": 99.99,
+        "category": "Fragrance",
+        "description": "A scent that will leave you smelling like pure confidence, determination, and style. For a limited time at a $15 discount!",
+        "imageUrl": "/images/Product8.png"
+    },
+        {
+        "id" : 9,
+        "name": "The Cheesecake Factory - Original Cheesecake",
+        "price": 10.99,
+        "category": "Food",
+        "description": "Sweet and savory just like its meant to be! Get a taste of the experience from The Cheesecake Factory right here with us!",
+        "imageUrl": "/images/Product9.png"
+    },
+        {
+        "id" : 10,
+        "name": "Bluey's Adventure Plane",
+        "price": 24.99,
+        "category": "Toys",
+        "description": "A plane from the educational animated series named Bluey! A fun toy for any kid that loves airplanes and Bluey!",
+        "imageUrl": "/images/Product10.png"
+    },
+        {
+        "id" : 11,
+        "name": "Peanuts 2027 12-Month Calender",
+        "price": 13.99,
+        "category": "Home Essentials",
+        "description": "A 12-month calender with images for each month based on the Peanuts animated show.",
+        "imageUrl": "/images/Product11.png"
+    },
+        {
+        "id" : 12,
+        "name": "Plush Blanket - Full/Queen Size",
+        "price": 22.99,
+        "category": "Home Essentials",
+        "description": "Super soft and fluffy blanket for full or queen size beds! For those long days where you need to come back to a comfy, soft blanket to cover you up.",
+        "imageUrl": "/images/Product12.png"
+    },
+        {
+        "id" : 13,
+        "name": "Men's GAP Crewneck Sweater - Navy Blue",
+        "price": 25.99,
+        "category": "Clothes",
+        "description": "XS - XXL Men's Navy Blue Crewneck Sweaters. Just in time for Fall/Winter seasons!",
+        "imageUrl": "/images/Product13.png"
+    },
+        {
+        "id" : 14,
+        "name": "Women's American Eagle Sweater",
+        "price": 35.99,
+        "category": "Clothes",
+        "description": "XS - XXL Women's Lilac colored sweater. Very comfy and soft while providince some nice warmth for those cool breezy autumn days!",
+        "imageUrl": "/images/Product14.png"
+    },
+        {
+        "id" : 15,
+        "name": "Kirby's Return to DreamLand Deluxe - Nintendo Switch Physical Edition",
+        "price": 49.99,
+        "category": "Toys",
+        "description": "Full HD remastered version of the hit game Kirby's Return to DreamLand which first released back in 2011 on the Wii. Now with new visuals and extra features!",
+        "imageUrl": "/images/Product15.png"
+    }
+]
